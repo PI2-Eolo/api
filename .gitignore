@@ -1,3 +1,7 @@
+eletric-power-backup.csv
+rotor-backup.csv
+wind-backup.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
